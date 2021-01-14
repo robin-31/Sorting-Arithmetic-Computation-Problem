@@ -1,2 +1,15 @@
 #!/bin/bash -x
-#welcome to arithmetic problem
+echo "Hello to all"
+read -p "enter your first value a ::" a
+read -p "enter your second value b ::" b
+read -p "enter your third value c ::" c
+
+echo $a $b $c
+
+
+
+
+
+
+
+
